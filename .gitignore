@@ -1,0 +1,4 @@
+bazel-bin
+bazel-closure-compat
+bazel-out
+bazel-testlogs
