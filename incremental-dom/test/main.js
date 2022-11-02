@@ -1,7 +1,7 @@
-goog.require("incremental_dom.index");
+goog.require("google3.third_party.javascript.incremental_dom.index");
 
 goog.scope(function () {
-  const module = goog.module.get("incremental_dom.index");
+  const module = goog.module.get("google3.third_party.javascript.incremental_dom.index");
 
   const element = document.createElement("p");
 
