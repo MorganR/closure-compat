@@ -3,24 +3,24 @@
  * Generated from: /home/morgan/code/incremental-dom/src/core.ts
  * @suppress {checkTypes,const,extraRequire,missingOverride,missingRequire,missingReturn,unusedPrivateMembers,uselessCode}
  */
-goog.module('incremental_dom.src.core');
+goog.module('google3.third_party.javascript.incremental_dom.src.core');
 var module = module || { id: 'src/core.ts' };
 goog.require('tslib');
-var tsickle_assertions_1 = goog.requireType("incremental_dom.src.assertions");
-var tsickle_context_2 = goog.requireType("incremental_dom.src.context");
-var tsickle_dom_util_3 = goog.requireType("incremental_dom.src.dom_util");
-var tsickle_global_4 = goog.requireType("incremental_dom.src.global");
-var tsickle_node_data_5 = goog.requireType("incremental_dom.src.node_data");
-var tsickle_nodes_6 = goog.requireType("incremental_dom.src.nodes");
-var tsickle_types_7 = goog.requireType("incremental_dom.src.types");
+var tsickle_assertions_1 = goog.requireType("google3.third_party.javascript.incremental_dom.src.assertions");
+var tsickle_context_2 = goog.requireType("google3.third_party.javascript.incremental_dom.src.context");
+var tsickle_dom_util_3 = goog.requireType("google3.third_party.javascript.incremental_dom.src.dom_util");
+var tsickle_global_4 = goog.requireType("google3.third_party.javascript.incremental_dom.src.global");
+var tsickle_node_data_5 = goog.requireType("google3.third_party.javascript.incremental_dom.src.node_data");
+var tsickle_nodes_6 = goog.requireType("google3.third_party.javascript.incremental_dom.src.nodes");
+var tsickle_types_7 = goog.requireType("google3.third_party.javascript.incremental_dom.src.types");
 //  Copyright 2018 The Incremental DOM Authors. All Rights Reserved.
 /** @license SPDX-License-Identifier: Apache-2.0 */
-var assertions_1 = goog.require('incremental_dom.src.assertions');
-var context_1 = goog.require('incremental_dom.src.context');
-var dom_util_1 = goog.require('incremental_dom.src.dom_util');
-var global_1 = goog.require('incremental_dom.src.global');
-var node_data_1 = goog.require('incremental_dom.src.node_data');
-var nodes_1 = goog.require('incremental_dom.src.nodes');
+var assertions_1 = goog.require('google3.third_party.javascript.incremental_dom.src.assertions');
+var context_1 = goog.require('google3.third_party.javascript.incremental_dom.src.context');
+var dom_util_1 = goog.require('google3.third_party.javascript.incremental_dom.src.dom_util');
+var global_1 = goog.require('google3.third_party.javascript.incremental_dom.src.global');
+var node_data_1 = goog.require('google3.third_party.javascript.incremental_dom.src.node_data');
+var nodes_1 = goog.require('google3.third_party.javascript.incremental_dom.src.nodes');
 /**
  * The default match function to use, if one was not specified when creating
  * the patcher.

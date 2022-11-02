@@ -3,18 +3,18 @@
  * Generated from: /home/morgan/code/incremental-dom/src/attributes.ts
  * @suppress {checkTypes,const,extraRequire,missingOverride,missingRequire,missingReturn,unusedPrivateMembers,uselessCode}
  */
-goog.module('incremental_dom.src.attributes');
+goog.module('google3.third_party.javascript.incremental_dom.src.attributes');
 var module = module || { id: 'src/attributes.ts' };
 goog.require('tslib');
-var tsickle_types_1 = goog.requireType("incremental_dom.src.types");
-var tsickle_assertions_2 = goog.requireType("incremental_dom.src.assertions");
-var tsickle_util_3 = goog.requireType("incremental_dom.src.util");
-var tsickle_symbols_4 = goog.requireType("incremental_dom.src.symbols");
+var tsickle_types_1 = goog.requireType("google3.third_party.javascript.incremental_dom.src.types");
+var tsickle_assertions_2 = goog.requireType("google3.third_party.javascript.incremental_dom.src.assertions");
+var tsickle_util_3 = goog.requireType("google3.third_party.javascript.incremental_dom.src.util");
+var tsickle_symbols_4 = goog.requireType("google3.third_party.javascript.incremental_dom.src.symbols");
 //  Copyright 2018 The Incremental DOM Authors. All Rights Reserved.
 /** @license SPDX-License-Identifier: Apache-2.0 */
-var assertions_1 = goog.require('incremental_dom.src.assertions');
-var util_1 = goog.require('incremental_dom.src.util');
-var symbols_1 = goog.require('incremental_dom.src.symbols');
+var assertions_1 = goog.require('google3.third_party.javascript.incremental_dom.src.assertions');
+var util_1 = goog.require('google3.third_party.javascript.incremental_dom.src.util');
+var symbols_1 = goog.require('google3.third_party.javascript.incremental_dom.src.symbols');
 /**
  * @param {string} name The name of the attribute. For example "tabindex" or
  *    "xlink:href".

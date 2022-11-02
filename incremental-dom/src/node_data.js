@@ -3,20 +3,20 @@
  * Generated from: /home/morgan/code/incremental-dom/src/node_data.ts
  * @suppress {checkTypes,const,extraRequire,missingOverride,missingRequire,missingReturn,unusedPrivateMembers,uselessCode}
  */
-goog.module('incremental_dom.src.node_data');
+goog.module('google3.third_party.javascript.incremental_dom.src.node_data');
 var module = module || { id: 'src/node_data.ts' };
 goog.require('tslib');
-var tsickle_types_1 = goog.requireType("incremental_dom.src.types");
-var tsickle_assertions_2 = goog.requireType("incremental_dom.src.assertions");
-var tsickle_util_3 = goog.requireType("incremental_dom.src.util");
-var tsickle_dom_util_4 = goog.requireType("incremental_dom.src.dom_util");
-var tsickle_global_5 = goog.requireType("incremental_dom.src.global");
+var tsickle_types_1 = goog.requireType("google3.third_party.javascript.incremental_dom.src.types");
+var tsickle_assertions_2 = goog.requireType("google3.third_party.javascript.incremental_dom.src.assertions");
+var tsickle_util_3 = goog.requireType("google3.third_party.javascript.incremental_dom.src.util");
+var tsickle_dom_util_4 = goog.requireType("google3.third_party.javascript.incremental_dom.src.dom_util");
+var tsickle_global_5 = goog.requireType("google3.third_party.javascript.incremental_dom.src.global");
 //  Copyright 2018 The Incremental DOM Authors. All Rights Reserved.
 /** @license SPDX-License-Identifier: Apache-2.0 */
-var assertions_1 = goog.require('incremental_dom.src.assertions');
-var util_1 = goog.require('incremental_dom.src.util');
-var dom_util_1 = goog.require('incremental_dom.src.dom_util');
-var global_1 = goog.require('incremental_dom.src.global');
+var assertions_1 = goog.require('google3.third_party.javascript.incremental_dom.src.assertions');
+var util_1 = goog.require('google3.third_party.javascript.incremental_dom.src.util');
+var dom_util_1 = goog.require('google3.third_party.javascript.incremental_dom.src.dom_util');
+var global_1 = goog.require('google3.third_party.javascript.incremental_dom.src.global');
 /**
  * Keeps track of information needed to perform diffs for a given DOM node.
  */

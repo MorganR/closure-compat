@@ -3,26 +3,26 @@
  * Generated from: /home/morgan/code/incremental-dom/src/virtual_elements.ts
  * @suppress {checkTypes,const,extraRequire,missingOverride,missingRequire,missingReturn,unusedPrivateMembers,uselessCode}
  */
-goog.module('incremental_dom.src.virtual_elements');
+goog.module('google3.third_party.javascript.incremental_dom.src.virtual_elements');
 var module = module || { id: 'src/virtual_elements.ts' };
 goog.require('tslib');
-var tsickle_assertions_1 = goog.requireType("incremental_dom.src.assertions");
-var tsickle_attributes_2 = goog.requireType("incremental_dom.src.attributes");
-var tsickle_core_3 = goog.requireType("incremental_dom.src.core");
-var tsickle_global_4 = goog.requireType("incremental_dom.src.global");
-var tsickle_node_data_5 = goog.requireType("incremental_dom.src.node_data");
-var tsickle_types_6 = goog.requireType("incremental_dom.src.types");
-var tsickle_util_7 = goog.requireType("incremental_dom.src.util");
-var tsickle_diff_8 = goog.requireType("incremental_dom.src.diff");
+var tsickle_assertions_1 = goog.requireType("google3.third_party.javascript.incremental_dom.src.assertions");
+var tsickle_attributes_2 = goog.requireType("google3.third_party.javascript.incremental_dom.src.attributes");
+var tsickle_core_3 = goog.requireType("google3.third_party.javascript.incremental_dom.src.core");
+var tsickle_global_4 = goog.requireType("google3.third_party.javascript.incremental_dom.src.global");
+var tsickle_node_data_5 = goog.requireType("google3.third_party.javascript.incremental_dom.src.node_data");
+var tsickle_types_6 = goog.requireType("google3.third_party.javascript.incremental_dom.src.types");
+var tsickle_util_7 = goog.requireType("google3.third_party.javascript.incremental_dom.src.util");
+var tsickle_diff_8 = goog.requireType("google3.third_party.javascript.incremental_dom.src.diff");
 //  Copyright 2018 The Incremental DOM Authors. All Rights Reserved.
 /** @license SPDX-License-Identifier: Apache-2.0 */
-var assertions_1 = goog.require('incremental_dom.src.assertions');
-var attributes_1 = goog.require('incremental_dom.src.attributes');
-var core_1 = goog.require('incremental_dom.src.core');
-var global_1 = goog.require('incremental_dom.src.global');
-var node_data_1 = goog.require('incremental_dom.src.node_data');
-var util_1 = goog.require('incremental_dom.src.util');
-var diff_1 = goog.require('incremental_dom.src.diff');
+var assertions_1 = goog.require('google3.third_party.javascript.incremental_dom.src.assertions');
+var attributes_1 = goog.require('google3.third_party.javascript.incremental_dom.src.attributes');
+var core_1 = goog.require('google3.third_party.javascript.incremental_dom.src.core');
+var global_1 = goog.require('google3.third_party.javascript.incremental_dom.src.global');
+var node_data_1 = goog.require('google3.third_party.javascript.incremental_dom.src.node_data');
+var util_1 = goog.require('google3.third_party.javascript.incremental_dom.src.util');
+var diff_1 = goog.require('google3.third_party.javascript.incremental_dom.src.diff');
 /**
  * The offset in the virtual element declaration where the attributes are
  * specified.

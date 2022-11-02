@@ -3,14 +3,14 @@
  * Generated from: /home/morgan/code/incremental-dom/src/nodes.ts
  * @suppress {checkTypes,const,extraRequire,missingOverride,missingRequire,missingReturn,unusedPrivateMembers,uselessCode}
  */
-goog.module('incremental_dom.src.nodes');
+goog.module('google3.third_party.javascript.incremental_dom.src.nodes');
 var module = module || { id: 'src/nodes.ts' };
 goog.require('tslib');
-var tsickle_node_data_1 = goog.requireType("incremental_dom.src.node_data");
-var tsickle_types_2 = goog.requireType("incremental_dom.src.types");
+var tsickle_node_data_1 = goog.requireType("google3.third_party.javascript.incremental_dom.src.node_data");
+var tsickle_types_2 = goog.requireType("google3.third_party.javascript.incremental_dom.src.types");
 //  Copyright 2018 The Incremental DOM Authors. All Rights Reserved.
 /** @license SPDX-License-Identifier: Apache-2.0 */
-var node_data_1 = goog.require('incremental_dom.src.node_data');
+var node_data_1 = goog.require('google3.third_party.javascript.incremental_dom.src.node_data');
 /**
  * Gets the namespace to create an element (of a given tag) in.
  * @param {string} tag The tag to get the namespace for.

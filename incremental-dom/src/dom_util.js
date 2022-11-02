@@ -3,13 +3,13 @@
  * Generated from: /home/morgan/code/incremental-dom/src/dom_util.ts
  * @suppress {checkTypes,const,extraRequire,missingOverride,missingRequire,missingReturn,unusedPrivateMembers,uselessCode}
  */
-goog.module('incremental_dom.src.dom_util');
+goog.module('google3.third_party.javascript.incremental_dom.src.dom_util');
 var module = module || { id: 'src/dom_util.ts' };
 goog.require('tslib');
-var tsickle_assertions_1 = goog.requireType("incremental_dom.src.assertions");
+var tsickle_assertions_1 = goog.requireType("google3.third_party.javascript.incremental_dom.src.assertions");
 //  Copyright 2018 The Incremental DOM Authors. All Rights Reserved.
 /** @license SPDX-License-Identifier: Apache-2.0 */
-var assertions_1 = goog.require('incremental_dom.src.assertions');
+var assertions_1 = goog.require('google3.third_party.javascript.incremental_dom.src.assertions');
 /**
  * Checks if the node is the root of a document. This is either a Document
  * or ShadowRoot. DocumentFragments are included for simplicity of the

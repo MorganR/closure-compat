@@ -3,13 +3,13 @@
  * Generated from: /home/morgan/code/incremental-dom/src/context.ts
  * @suppress {checkTypes,const,extraRequire,missingOverride,missingRequire,missingReturn,unusedPrivateMembers,uselessCode}
  */
-goog.module('incremental_dom.src.context');
+goog.module('google3.third_party.javascript.incremental_dom.src.context');
 var module = module || { id: 'src/context.ts' };
 goog.require('tslib');
-var tsickle_notifications_1 = goog.requireType("incremental_dom.src.notifications");
+var tsickle_notifications_1 = goog.requireType("google3.third_party.javascript.incremental_dom.src.notifications");
 //  Copyright 2018 The Incremental DOM Authors. All Rights Reserved.
 /** @license SPDX-License-Identifier: Apache-2.0 */
-var notifications_1 = goog.require('incremental_dom.src.notifications');
+var notifications_1 = goog.require('google3.third_party.javascript.incremental_dom.src.notifications');
 /**
  * A context object keeps track of the state of a patch.
  */

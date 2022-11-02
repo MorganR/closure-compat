@@ -3,16 +3,16 @@
  * Generated from: /home/morgan/code/incremental-dom/src/diff.ts
  * @suppress {checkTypes,const,extraRequire,missingOverride,missingRequire,missingReturn,unusedPrivateMembers,uselessCode}
  */
-goog.module('incremental_dom.src.diff');
+goog.module('google3.third_party.javascript.incremental_dom.src.diff');
 var module = module || { id: 'src/diff.ts' };
 goog.require('tslib');
-var tsickle_types_1 = goog.requireType("incremental_dom.src.types");
-var tsickle_util_2 = goog.requireType("incremental_dom.src.util");
-var tsickle_changes_3 = goog.requireType("incremental_dom.src.changes");
+var tsickle_types_1 = goog.requireType("google3.third_party.javascript.incremental_dom.src.types");
+var tsickle_util_2 = goog.requireType("google3.third_party.javascript.incremental_dom.src.util");
+var tsickle_changes_3 = goog.requireType("google3.third_party.javascript.incremental_dom.src.changes");
 //  Copyright 2018 The Incremental DOM Authors. All Rights Reserved.
 /** @license SPDX-License-Identifier: Apache-2.0 */
-var util_1 = goog.require('incremental_dom.src.util');
-var changes_1 = goog.require('incremental_dom.src.changes');
+var util_1 = goog.require('google3.third_party.javascript.incremental_dom.src.util');
+var changes_1 = goog.require('google3.third_party.javascript.incremental_dom.src.changes');
 /**
  * Used to keep track of the previous values when a 2-way diff is necessary.
  * This object is cleared out and reused.

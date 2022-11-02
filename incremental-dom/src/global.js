@@ -3,10 +3,10 @@
  * Generated from: /home/morgan/code/incremental-dom/src/global.ts
  * @suppress {checkTypes,const,extraRequire,missingOverride,missingRequire,missingReturn,unusedPrivateMembers,uselessCode}
  */
-goog.module('incremental_dom.src.global');
+goog.module('google3.third_party.javascript.incremental_dom.src.global');
 var module = module || { id: 'src/global.ts' };
 goog.require('tslib');
-var tsickle_debug_1 = goog.requireType("incremental_dom.src.debug");
+var tsickle_debug_1 = goog.requireType("google3.third_party.javascript.incremental_dom.src.debug");
 //  Copyright 2018 The Incremental DOM Authors. All Rights Reserved.
 /** @license SPDX-License-Identifier: Apache-2.0 */
 /**
@@ -32,5 +32,5 @@ function setKeyAttributeName(name) {
     keyAttributeName = name;
 }
 exports.setKeyAttributeName = setKeyAttributeName;
-var debug_1 = goog.require('incremental_dom.src.debug');
+var debug_1 = goog.require('google3.third_party.javascript.incremental_dom.src.debug');
 exports.DEBUG = debug_1.DEBUG;
