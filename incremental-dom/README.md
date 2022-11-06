@@ -8,5 +8,5 @@ Closure-compatible version of [incremental-dom](https://github.com/google/increm
 
 1. Clone the incremental dom repo.
 1. Remove the '/test' references in the tsconfig include.
-1. Run `node ${tsickle_tool} --module=google3.third_party.javascript.incremental_dom -- -p ./ --sourceMap false`
+1. Run `node $TSICKLE_PATH --module google3.third_party.javascript.incremental_dom --mr tslib/google3.third_party.javascript.tslib.tslib -- -p ./ --sourceMap false`
 

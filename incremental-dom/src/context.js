@@ -5,7 +5,7 @@
  */
 goog.module('google3.third_party.javascript.incremental_dom.src.context');
 var module = module || { id: 'src/context.ts' };
-goog.require('tslib');
+goog.require('google3.third_party.javascript.tslib.tslib');
 var tsickle_notifications_1 = goog.requireType("google3.third_party.javascript.incremental_dom.src.notifications");
 //  Copyright 2018 The Incremental DOM Authors. All Rights Reserved.
 /** @license SPDX-License-Identifier: Apache-2.0 */

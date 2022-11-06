@@ -5,7 +5,7 @@
  */
 goog.module('google3.third_party.javascript.incremental_dom.src.diff');
 var module = module || { id: 'src/diff.ts' };
-goog.require('tslib');
+goog.require('google3.third_party.javascript.tslib.tslib');
 var tsickle_types_1 = goog.requireType("google3.third_party.javascript.incremental_dom.src.types");
 var tsickle_util_2 = goog.requireType("google3.third_party.javascript.incremental_dom.src.util");
 var tsickle_changes_3 = goog.requireType("google3.third_party.javascript.incremental_dom.src.changes");

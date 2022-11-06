@@ -5,7 +5,7 @@
  */
 goog.module('google3.third_party.javascript.incremental_dom.src.assertions');
 var module = module || { id: 'src/assertions.ts' };
-goog.require('tslib');
+goog.require('google3.third_party.javascript.tslib.tslib');
 var tsickle_global_1 = goog.requireType("google3.third_party.javascript.incremental_dom.src.global");
 var tsickle_types_2 = goog.requireType("google3.third_party.javascript.incremental_dom.src.types");
 //  Copyright 2015 The Incremental DOM Authors. All Rights Reserved.

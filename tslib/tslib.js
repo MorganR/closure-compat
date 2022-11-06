@@ -22,7 +22,7 @@
  * and limitations under the License.
  */
 
-goog.module('tslib');
+goog.module('google3.third_party.javascript.tslib.tslib');
 
 /**
  * @param {?} d

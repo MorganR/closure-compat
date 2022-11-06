@@ -7,7 +7,7 @@
 /** @license SPDX-License-Identifier: Apache-2.0 */
 goog.module('google3.third_party.javascript.incremental_dom.src.util');
 var module = module || { id: 'src/util.ts' };
-goog.require('tslib');
+goog.require('google3.third_party.javascript.tslib.tslib');
 /**
  * A cached reference to the hasOwnProperty function.
  * @type {function((string|number|symbol)): boolean}

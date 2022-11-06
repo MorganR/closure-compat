@@ -7,7 +7,7 @@
 /** @license SPDX-License-Identifier: Apache-2.0 */
 goog.module('google3.third_party.javascript.incremental_dom.src.notifications');
 var module = module || { id: 'src/notifications.ts' };
-goog.require('tslib');
+goog.require('google3.third_party.javascript.tslib.tslib');
 /** @typedef {function(!Array<!Node>): void} */
 exports.NodeFunction;
 /**

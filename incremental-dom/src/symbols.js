@@ -7,7 +7,7 @@
 /** @license SPDX-License-Identifier: Apache-2.0 */
 goog.module('google3.third_party.javascript.incremental_dom.src.symbols');
 var module = module || { id: 'src/symbols.ts' };
-goog.require('tslib');
+goog.require('google3.third_party.javascript.tslib.tslib');
 /** @type {{default: string}} */
 var symbols = {
     default: "__default"

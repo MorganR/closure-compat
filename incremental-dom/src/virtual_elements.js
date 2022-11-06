@@ -5,7 +5,7 @@
  */
 goog.module('google3.third_party.javascript.incremental_dom.src.virtual_elements');
 var module = module || { id: 'src/virtual_elements.ts' };
-goog.require('tslib');
+goog.require('google3.third_party.javascript.tslib.tslib');
 var tsickle_assertions_1 = goog.requireType("google3.third_party.javascript.incremental_dom.src.assertions");
 var tsickle_attributes_2 = goog.requireType("google3.third_party.javascript.incremental_dom.src.attributes");
 var tsickle_core_3 = goog.requireType("google3.third_party.javascript.incremental_dom.src.core");
